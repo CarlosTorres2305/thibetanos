@@ -1,0 +1,24 @@
+Desenvolvimento de um sistema capaz de controlar entrada e saida de veiculos da
+oficina por meio de emissão de ordens de serviço, e também controlar estoque de
+peças.
+
+Requisitos
+
+* Gerar ordens de serviços, considerando data de emissão e prazo de garantia
+* Gestão de clientes (Cadastro/Alteração/Exclusão)
+* Gestão de peças (Cadastro/Alteração/Exclusão)
+* Cadastro de serviços
+* Gestão de veículos (Cadastro/Alteração/Exclusão)
+* Um cliente pode possuir cadastro ou ser um cliente avulso
+* Controle de estoque
+
+
+CLIENTE (NOME, TELEFONE, CPF, ENDEREÇO)
+
+VEICULO (MARCA, MODELO, COR, ANO, PLACA)
+
+PEÇA (DESCRIÇÃO, VALOR, QUANTIDADE, MARCA)
+
+SERVIÇO (DESCRICAO, VALOR)
+
+ORDEM DE SERVIÇO (CLIENTE, PEÇAS, SERVIÇOS, DATA-EMISSAO, GARANTIA, VEICULO)

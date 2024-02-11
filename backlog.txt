@@ -1,0 +1,9 @@
+BACKLOG DO PRODUTO
+
+1- Arquiteturas e prototipagem do sistema
+2- Cadastro de cliente
+3- Cadastro de serviços
+4- Cadastro de peças
+5- Cadastro de veiculo
+6- Geração de ordens de serviço
+7- Controle de estoque

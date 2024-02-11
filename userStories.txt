@@ -1,0 +1,22 @@
+User Histories
+
+1- Eu como mecanico, desejo gerar ordens de serviço de motos deixadas na oficina 
+para ter o controle dos serviços
+
+2- Eu como mecanico, desejo conseguir efetuar o cadastro de clientes no sistema
+para ter mais praticidade em agendamentos de serviços
+
+3- Eu como mecanico, desejo conseguir efetuar o cadastro de peças no sistema
+para ter o controle de entradas e saidas
+
+4- Eu como mecanico, desejo conseguir efetuar o cadastro de serviços no sistema
+para facilitar o preenchimento de ordens de serviço
+
+5- Eu como mecanico, desejo conseguir efetuar o cadastro de veiculos no sistema
+para facilitar o preenchimento de ordem de serviço e vinculo com proprietario
+
+6- Eu como mecanico, desejo decidir se um cliente será avulso ou deverá possuir 
+cadastro no sistema para preservar a opção do cliente.
+
+7- Eu como mecanico, desejo conseguir operar um controle de estoque para melhorar
+o controle de peças compradas e vendidas. 
